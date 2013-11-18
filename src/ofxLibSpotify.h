@@ -11,10 +11,11 @@
 
 #include <iostream>
 #include "ofMain.h"
+
 class ofxLibSpotify{
 public:
     void setup(string user_name, string password);
     void update();
 private:
-}
+};
 #endif /* defined(____ofxLibSpotify__) */
